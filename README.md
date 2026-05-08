@@ -12,7 +12,7 @@ TypeScript · React · React Native · Expo · Next.js · Tailwind CSS
 Node.js · Express · Supabase · PostgreSQL · Firebase · MySQL
 
 ### AI & Tools
-OpenAI · Claude Code · GitHub Copilot · Prompt Engineering
+Claude Code · GitHub Copilot · Prompt Engineering
 
 ---
 
@@ -27,7 +27,7 @@ OpenAI · Claude Code · GitHub Copilot · Prompt Engineering
 |---------|-------------|
 | [**Kibo**](https://github.com/SebastianLevano/kibo) | Offline-first educational adventure game for kids built with React, Vite, and JavaScript, featuring procedural math challenges, bilingual support, and story-driven gameplay. |
 | [**BoosterNotes**](https://github.com/SebastianLevano/BoosterNotes) | AI-powered note-taking mobile app built with React Native, TypeScript, Expo, Supabase, and OpenAI, featuring web research, intelligent note organization, and semantic search across personal notes. |
-| [**AulaSense**](https://github.com/SebastianLevano/proyecto_hackathon) | AI-powered classroom analytics platform built with React, Node.js, Express, and OpenAI, focused on student participation, engagement analysis, and educational insights in real time. |
+| [**AulaSense**](https://github.com/SebastianLevano/proyecto_hackathon) | AI-powered educational analytics platform built with Node.js, Express, Neon Postgres, OpenAI, and Chart.js, focused on classroom wellbeing analysis, student feedback, and intelligent pedagogical recommendations. |
 
 
 ---
