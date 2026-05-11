@@ -1,7 +1,7 @@
 # Hi, I'm Sebastián 👋
 
 I’m a software developer focused on building modern web applications and AI-powered experiences.
-Currently working with React Native, TypeScript, Supabase, and AI tools to create educational, productivity, and real-world applications.
+Currently working with React Native, TypeScript, NodeJS, Python, and AI tools to create educational, productivity, and real-world applications.
 
 ## 🚀 Stack
 
@@ -9,7 +9,7 @@ Currently working with React Native, TypeScript, Supabase, and AI tools to creat
 TypeScript · React · React Native · Expo · Next.js · Tailwind CSS
 
 ### Backend & Database
-Node.js · Express · Supabase · PostgreSQL · Firebase · MySQL
+Node.js · Express · Python · Supabase · PostgreSQL · Firebase · MySQL
 
 ### AI & Tools
 Claude Code · GitHub Copilot · Prompt Engineering
