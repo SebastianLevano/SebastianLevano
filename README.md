@@ -1,18 +1,19 @@
 # Hi, I'm Sebastián 👋
 
-I’m a full stack software developer junior focused on building scalable SaaS platforms, enterprise systems, and AI-powered applications.
-Currently working with .NET, Laravel, Next.js, Python, TypeScript, and modern cloud-native architectures to create automation platforms, ERP systems, ATS solutions, and intelligent productivity tools.
+I’m a Full Stack Software Developer focused on building scalable SaaS platforms, enterprise systems, and AI-powered applications.
+Currently working with ASP.NET Core, Laravel, Next.js, React, Angular, Python, TypeScript, AWS, and modern cloud-native architectures to develop workflow automation platforms, ERP systems, ATS solutions, intelligent document processing tools, and productivity applications.
+Interested in full stack development, backend architecture, cloud computing, AI integrations, and modern product design.
 
 ## 🚀 Stack
 
 ### Frontend
-TypeScript · React · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
+TypeScript · React · Angular · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
 
 ### Backend & Database
 ASP.NET Core · Node.js · Express · Python · PHP · Laravel · FastAPI · MySQL · PostgreSQL
 
 ### Cloud, DevOps & Architecture
-Docker · JWT Auth · REST APIs · Multi-Tenant SaaS
+Docker · JWT Auth · REST APIs · AWS Lambda · Multi-Tenant SaaS
 
 ### AI & Tools
 Claude Code · GitHub Copilot · Prompt Engineering
