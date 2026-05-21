@@ -12,7 +12,7 @@ TypeScript · React · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
 ASP.NET Core · Node.js · Express · Python · PHP · Laravel · FastAPI · MySQL · PostgreSQL
 
 ### Cloud, DevOps & Architecture
-Docker · JWT Auth · REST APIs · SignalR · Hangfire · Modular Monolith · Clean Architecture · Multi-Tenant SaaS
+Docker · JWT Auth · REST APIs · Multi-Tenant SaaS
 
 ### AI & Tools
 Claude Code · GitHub Copilot · Prompt Engineering
