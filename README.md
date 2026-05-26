@@ -6,7 +6,8 @@ Interested in full stack development, backend architecture, cloud computing, AI 
 
 ## 🚀 Stack
 
-#### Frontend: TypeScript · React · Angular · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
+#### Frontend
+TypeScript · React · Angular · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
 
 #### Backend & Database
 ASP.NET Core · Node.js · Express · Python · PHP · Laravel · FastAPI · MySQL · PostgreSQL
