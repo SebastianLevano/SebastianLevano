@@ -6,16 +6,15 @@ Interested in full stack development, backend architecture, cloud computing, AI 
 
 ## 🚀 Stack
 
-#### Frontend
-TypeScript · React · Angular · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
+#### Frontend: TypeScript · React · Angular · React Native · Vite · Vue 3 · Next.js · Tailwind CSS
 
-### Backend & Database
+#### Backend & Database
 ASP.NET Core · Node.js · Express · Python · PHP · Laravel · FastAPI · MySQL · PostgreSQL
 
-### Cloud, DevOps & Architecture
+#### Cloud, DevOps & Architecture
 Docker · JWT Auth · REST APIs · AWS Lambda · Multi-Tenant SaaS
 
-### AI & Tools
+#### AI & Tools
 Claude Code · GitHub Copilot · Prompt Engineering
 
 ---
