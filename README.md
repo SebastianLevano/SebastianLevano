@@ -1,8 +1,6 @@
 # Hi, I'm Sebastián 👋
 
-I’m a Full Stack Software Developer focused on building scalable SaaS platforms, enterprise systems, and AI-powered applications.
-Currently working with ASP.NET Core, Laravel, Next.js, React, Angular, Python, TypeScript, AWS, and modern cloud-native architectures to develop workflow automation platforms, ERP systems, ATS solutions, intelligent document processing tools, and productivity applications.
-Interested in full stack development, backend architecture, cloud computing, AI integrations, and modern product design.
+I build SaaS platforms, web apps, cloud-native applications, and AI-powered products. Mostly ASP.NET Core, TypeScript, Angular, and React — interested in software architecture, distributed systems, cloud computing, automation, and applied AI.
 
 ## 🚀 Stack
 
@@ -29,13 +27,12 @@ Claude Code · GitHub Copilot · Prompt Engineering
 
 | Project | Description |
 |---------|-------------|
-| [**HireMind AI**](https://github.com/SebastianLevano/hiremind-ai) | AI-powered ATS platform that analyzes resumes against job descriptions using OpenAI, providing ATS scoring, keyword matching, skills detection, and intelligent hiring feedback. Built with FastAPI, React, PostgreSQL, Docker, and OpenAI integration. |
-| [**NexaERP**](https://github.com/SebastianLevano/NexaERP) | Modern ERP platform for SMEs featuring inventory management, sales, CRM, role-based access control, and analytics dashboards. Built with Laravel, Filament, MySQL, Tailwind CSS, and enterprise-grade architecture principles. |
-| [**AulaSense**](https://github.com/SebastianLevano/proyecto_hackathon) | AI-powered educational analytics platform built with Node.js, Express, Neon Postgres, OpenAI, and Chart.js, focused on classroom wellbeing analysis, student feedback, and intelligent pedagogical recommendations. |
-| [**NexusFlow**](https://github.com/SebastianLevano/NexusFlow) | Enterprise workflow automation platform inspired by Zapier and n8n, featuring workflow orchestration, background job processing, SignalR real-time logs, modular monolith architecture, and SaaS-ready multi-tenant design using .NET 9 and Next.js. |
-| [**Kibo**](https://github.com/SebastianLevano/kibo) | Offline-first educational adventure game for kids built with React, Vite, and JavaScript, featuring procedural math challenges, bilingual support, and story-driven gameplay. |
-| [**BoosterNotes**](https://github.com/SebastianLevano/BoosterNotes) | AI-powered note-taking mobile app built with React Native, TypeScript, Expo, Supabase, and OpenAI, featuring web research, intelligent note organization, and semantic search across personal notes. |
-
+| [**Merkatto**](https://github.com/SebastianLevano/Merkatto) | SaaS platform for Peruvian convenience stores with inventory, sales, analytics and desktop-first workflows. |
+| [**Peru Calcula**](https://github.com/SebastianLevano/PeruCalcula) | Financial, tax and labor calculation platform for Peru with auditable results based on official regulations. |
+| [**CloudDocs AI**](https://github.com/SebastianLevano/CloudDocs) | Enterprise document intelligence platform powered by GenAI, semantic search and serverless architecture. |
+| [**HireMind AI**](https://github.com/SebastianLevano/hiremind-ai) | AI-assisted applicant tracking system with resume analysis and hiring intelligence. |
+| [**AulaSense**](https://github.com/SebastianLevano/proyecto_hackathon) | AI-powered educational analytics platform for classroom wellbeing and learning insights. |
+| [**NexusFlow**](https://github.com/SebastianLevano/NexusFlow) | Multi-tenant workflow automation platform inspired by Zapier and n8n. |
 
 
 ---
