@@ -1,8 +1,8 @@
 # Hi, I'm Sebastián 👋
 
-I build SaaS platforms, web apps, cloud-native applications, and AI-powered products. Mostly ASP.NET Core, TypeScript, Angular, and React — interested in software architecture, distributed systems, cloud computing, automation, and applied AI.
+I build SaaS platforms, web apps, cloud-native applications, and AI-powered products. Mostly TypeScript, React, Next.js, Angular, and Python — interested in software architecture, distributed systems, cloud computing, automation, and applied AI.
 
-#### Stack: ASP.NET Core · TypeScript · Angular · React · Node.js · Next.js · Python · PostgreSQL · MySQL · AWS · Docker
+#### Stack: TypeScript · React · Next.js · Angular · Node.js · Python · PostgreSQL · Docker · AWS · OpenAI · ASP.NET Core
 
 <a href="https://linkedin.com/in/sebastian-levano-73bb141ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:jsebas.01cap@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
