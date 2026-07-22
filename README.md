@@ -17,8 +17,8 @@ I build SaaS platforms, web apps, cloud-native applications, and AI-powered prod
 | [**Peru Calcula**](https://github.com/SebastianLevano/peru-calcula) | Financial, tax and labor calculation platform for Peru with auditable results based on official regulations. |
 | [**CloudDocs AI**](https://github.com/SebastianLevano/CloudDocs) | Enterprise document intelligence platform powered by GenAI, semantic search and serverless architecture. |
 | [**AulaSense**](https://github.com/SebastianLevano/proyecto_hackathon) | AI-powered educational analytics platform for classroom wellbeing and learning insights. |
-| [**IncluyeApp**](https://github.com/SebastianLevano/incluyeapp) | Plataforma PWA de apoyo para maestras sombra con colaboración en tiempo real. |
-| [**HorizonteMakerHub**](https://github.com/SebastianLevano/HorizonteMakerHub) | Plataforma educativa ABP + STEAM con aula invertida y tutor IA para colegios en Perú. |
+| [**IncluyeApp**](https://github.com/SebastianLevano/incluyeapp) | PWA for shadow teachers supporting neurodivergent students with real-time collaboration between school, family and psychology. |
+| [**HorizonteMakerHub**](https://github.com/SebastianLevano/HorizonteMakerHub) | PBL + STEAM educational platform with flipped classroom and AI tutor for schools in Peru. |
 
 
 ---
